@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/box-shadow",
+  "version": "1.0.0",
+  "description": "Visual CSS box-shadow builder with live preview and copy. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "box-shadow.js",
+  "unpkg": "box-shadow.js",
+  "files": ["box-shadow.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "css box shadow", "box shadow generator", "css shadow generator"],
+  "homepage": "https://sgbp.tech/tools/box-shadow-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
