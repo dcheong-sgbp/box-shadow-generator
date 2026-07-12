@@ -1,0 +1,8 @@
+site_name: CSS Box Shadow Generator
+site_description: Visual CSS box-shadow builder with live preview and copy.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
